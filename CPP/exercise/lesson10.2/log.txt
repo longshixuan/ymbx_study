@@ -1,0 +1,6 @@
+hello bit->stderr
+hello bit->stderr
+hello bit->stderr
+hello bit->stdout
+hello bit->stdout
+hello bit->stdout
