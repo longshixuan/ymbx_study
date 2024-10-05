@@ -1,0 +1,3 @@
+hello bit->stderr
+hello bit->stderr
+hello bit->stderr
